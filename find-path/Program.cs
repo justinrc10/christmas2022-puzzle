@@ -44,7 +44,6 @@
                         case "D":
                         case "CHECK":
                         case "DF":
-                        case "aye?":
                             names = world.GetLocationNames();
                             bool differenceFound = false;
 
